@@ -158,13 +158,13 @@
   <property name="ShowGroupHint">true</property>
   <property name="ShowLinkHint">true</property>
   <property name="DragDropFlags">AllowDrag, AllowDrop</property>
-  <property name="ActiveGroupName">Training</property>
+  <property name="ActiveGroupName">Repertoire</property>
   <property name="SelectLinkOnPress">true</property>
   <property name="Groups" iskey="true" value="3">
     <property name="Item1" isnull="true" iskey="true">
       <property name="Visible">true</property>
       <property name="ItemLinks" iskey="true" value="0" />
-      <property name="Expanded">false</property>
+      <property name="Expanded">true</property>
       <property name="SmallImageIndex">-1</property>
       <property name="GroupCaptionUseImage">Default</property>
       <property name="Tag" type="ChessPositionTrainer.ObjectModel.ModuleCategory">~Xtra#NULL</property>
@@ -174,7 +174,7 @@
       <property name="Caption">Repertoire</property>
       <property name="GroupClientHeight">-1</property>
       <property name="DragDropFlags">Default</property>
-      <property name="GroupStyle">Default</property>
+      <property name="GroupStyle">ControlContainer</property>
       <property name="NavigationPaneVisible">true</property>
       <property name="ControlContainerName"></property>
       <property name="Name">Repertoire</property>
@@ -193,7 +193,7 @@
           <property name="ItemName">Topic Training</property>
         </property>
       </property>
-      <property name="Expanded">true</property>
+      <property name="Expanded">false</property>
       <property name="SmallImageIndex">-1</property>
       <property name="GroupCaptionUseImage">Default</property>
       <property name="Tag" type="ChessPositionTrainer.ObjectModel.ModuleCategory">~Xtra#NULL</property>
@@ -207,7 +207,7 @@
       <property name="NavigationPaneVisible">true</property>
       <property name="ControlContainerName"></property>
       <property name="Name">Training</property>
-      <property name="SelectedLinkIndex">0</property>
+      <property name="SelectedLinkIndex">-1</property>
       <property name="TopVisibleLinkIndex">0</property>
     </property>
     <property name="Item3" isnull="true" iskey="true">
@@ -260,7 +260,7 @@
       <property name="NavigationPaneVisible">true</property>
       <property name="ControlContainerName"></property>
       <property name="Name">Statistics</property>
-      <property name="SelectedLinkIndex">-1</property>
+      <property name="SelectedLinkIndex">0</property>
       <property name="TopVisibleLinkIndex">0</property>
     </property>
   </property>

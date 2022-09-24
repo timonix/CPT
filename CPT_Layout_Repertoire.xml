@@ -89,7 +89,7 @@
       <property name="Hint"></property>
       <property name="Text">panelContainer3</property>
       <property name="OriginalSize">@3,Width=500@3,Height=200</property>
-      <property name="XtraBounds">@4,X=1153@1,Y=0@3,Width=500@3,Height=859</property>
+      <property name="XtraBounds">@4,X=1065@1,Y=0@3,Width=500@3,Height=859</property>
       <property name="Options" isnull="true" iskey="true">
         <property name="AllowFloating">true</property>
         <property name="AllowDockLeft">true</property>

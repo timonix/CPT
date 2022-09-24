@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraSerializer version="1.0" application="RibbonQuickAccessToolbar">
+  <property name="ShowCustomizeItem">true</property>
+  <property name="ItemLinks" iskey="true" value="6">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="KeyTip"></property>
+      <property name="Width">0</property>
+      <property name="RecentIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="MostRecentlyUsed">true</property>
+      <property name="ImageIndex">61</property>
+      <property name="BeginGroup">false</property>
+      <property name="ActAsButtonGroup">false</property>
+      <property name="UserPaintStyle">Standard</property>
+      <property name="UserAlignment">Default</property>
+      <property name="UserRibbonStyle">Default</property>
+      <property name="UserCaption"></property>
+      <property name="UserWidth">0</property>
+      <property name="ClickCount">0</property>
+      <property name="ItemId">99</property>
+      <property name="UserEditWidth">0</property>
+      <property name="IsGalleryToolbarItemLink">false</property>
+      <property name="PageGroupName"></property>
+      <property name="GalleryLinkIndex">-1</property>
+      <property name="IsPageGroupContentToolbarButtonLink">false</property>
+      <property name="DropDownKeyTip"></property>
+      <property name="IsMerged">false</property>
+      <property name="GalleryBarItemName"></property>
+      <property name="UserDefine">None</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="KeyTip"></property>
+      <property name="Width">0</property>
+      <property name="RecentIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="MostRecentlyUsed">true</property>
+      <property name="ImageIndex">72</property>
+      <property name="BeginGroup">false</property>
+      <property name="ActAsButtonGroup">false</property>
+      <property name="UserPaintStyle">Standard</property>
+      <property name="UserAlignment">Default</property>
+      <property name="UserRibbonStyle">Default</property>
+      <property name="UserCaption"></property>
+      <property name="UserWidth">0</property>
+      <property name="ClickCount">0</property>
+      <property name="ItemId">96</property>
+      <property name="UserEditWidth">0</property>
+      <property name="IsGalleryToolbarItemLink">false</property>
+      <property name="PageGroupName"></property>
+      <property name="GalleryLinkIndex">-1</property>
+      <property name="IsPageGroupContentToolbarButtonLink">false</property>
+      <property name="DropDownKeyTip"></property>
+      <property name="IsMerged">false</property>
+      <property name="GalleryBarItemName"></property>
+      <property name="UserDefine">None</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="KeyTip"></property>
+      <property name="Width">0</property>
+      <property name="RecentIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="MostRecentlyUsed">true</property>
+      <property name="ImageIndex">44</property>
+      <property name="BeginGroup">false</property>
+      <property name="ActAsButtonGroup">false</property>
+      <property name="UserPaintStyle">Standard</property>
+      <property name="UserAlignment">Default</property>
+      <property name="UserRibbonStyle">Default</property>
+      <property name="UserCaption"></property>
+      <property name="UserWidth">0</property>
+      <property name="ClickCount">0</property>
+      <property name="ItemId">42</property>
+      <property name="UserEditWidth">0</property>
+      <property name="IsGalleryToolbarItemLink">false</property>
+      <property name="PageGroupName"></property>
+      <property name="GalleryLinkIndex">-1</property>
+      <property name="IsPageGroupContentToolbarButtonLink">false</property>
+      <property name="DropDownKeyTip"></property>
+      <property name="IsMerged">false</property>
+      <property name="GalleryBarItemName"></property>
+      <property name="UserDefine">None</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="KeyTip"></property>
+      <property name="Width">0</property>
+      <property name="RecentIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="MostRecentlyUsed">true</property>
+      <property name="ImageIndex">42</property>
+      <property name="BeginGroup">false</property>
+      <property name="ActAsButtonGroup">false</property>
+      <property name="UserPaintStyle">Standard</property>
+      <property name="UserAlignment">Default</property>
+      <property name="UserRibbonStyle">Default</property>
+      <property name="UserCaption"></property>
+      <property name="UserWidth">0</property>
+      <property name="ClickCount">0</property>
+      <property name="ItemId">32</property>
+      <property name="UserEditWidth">0</property>
+      <property name="IsGalleryToolbarItemLink">false</property>
+      <property name="PageGroupName"></property>
+      <property name="GalleryLinkIndex">-1</property>
+      <property name="IsPageGroupContentToolbarButtonLink">false</property>
+      <property name="DropDownKeyTip"></property>
+      <property name="IsMerged">false</property>
+      <property name="GalleryBarItemName"></property>
+      <property name="UserDefine">None</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="KeyTip"></property>
+      <property name="Width">0</property>
+      <property name="RecentIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="MostRecentlyUsed">true</property>
+      <property name="ImageIndex">45</property>
+      <property name="BeginGroup">false</property>
+      <property name="ActAsButtonGroup">false</property>
+      <property name="UserPaintStyle">Standard</property>
+      <property name="UserAlignment">Default</property>
+      <property name="UserRibbonStyle">Default</property>
+      <property name="UserCaption"></property>
+      <property name="UserWidth">0</property>
+      <property name="ClickCount">0</property>
+      <property name="ItemId">31</property>
+      <property name="UserEditWidth">0</property>
+      <property name="IsGalleryToolbarItemLink">false</property>
+      <property name="PageGroupName"></property>
+      <property name="GalleryLinkIndex">-1</property>
+      <property name="IsPageGroupContentToolbarButtonLink">false</property>
+      <property name="DropDownKeyTip"></property>
+      <property name="IsMerged">false</property>
+      <property name="GalleryBarItemName"></property>
+      <property name="UserDefine">None</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="KeyTip"></property>
+      <property name="Width">0</property>
+      <property name="RecentIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="MostRecentlyUsed">true</property>
+      <property name="ImageIndex">75</property>
+      <property name="BeginGroup">false</property>
+      <property name="ActAsButtonGroup">false</property>
+      <property name="UserPaintStyle">Standard</property>
+      <property name="UserAlignment">Default</property>
+      <property name="UserRibbonStyle">Default</property>
+      <property name="UserCaption"></property>
+      <property name="UserWidth">0</property>
+      <property name="ClickCount">0</property>
+      <property name="ItemId">326</property>
+      <property name="UserEditWidth">0</property>
+      <property name="IsGalleryToolbarItemLink">false</property>
+      <property name="PageGroupName"></property>
+      <property name="GalleryLinkIndex">-1</property>
+      <property name="IsPageGroupContentToolbarButtonLink">false</property>
+      <property name="DropDownKeyTip"></property>
+      <property name="IsMerged">false</property>
+      <property name="GalleryBarItemName"></property>
+      <property name="UserDefine">None</property>
+    </property>
+  </property>
+</XtraSerializer>

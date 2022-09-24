@@ -24,6 +24,8 @@
     </property>
     <property name="Item5" isnull="true" iskey="true">
       <property name="Width">94</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">5</property>
       <property name="Name">gridColumnOpening</property>
     </property>
     <property name="Item6" isnull="true" iskey="true">

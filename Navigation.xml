@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XtraSerializer version="1.0" application="NavBarControl">
+  <property name="#LayoutVersion"></property>
+  <property name="NavigationPaneMaxVisibleGroups">-1</property>
+  <property name="LinkInterval">-1</property>
+  <property name="SkinExplorerBarViewScrollStyle">Default</property>
+  <property name="ExplorerBarGroupOuterIndent">-1</property>
+  <property name="ExplorerBarGroupInterval">-1</property>
+  <property name="BorderStyle">Default</property>
+  <property name="ExplorerBarStretchLastGroup">false</property>
+  <property name="NavigationPaneOverflowPanelUseSmallImages">true</property>
+  <property name="LinkSelectionMode">OneInControl</property>
+  <property name="ExplorerBarShowGroupButtons">true</property>
+  <property name="Items" iskey="true" value="10">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">5</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.Module">~Xtra#NULL</property>
+      <property name="Caption">Opening Knowledge</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="AllowAutoSelect">true</property>
+      <property name="CanDrag">true</property>
+      <property name="Enabled">true</property>
+      <property name="StyleDisabledName"></property>
+      <property name="Name">Opening Knowledge</property>
+      <property name="AllowGlyphSkinning">Default</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">6</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.Module">~Xtra#NULL</property>
+      <property name="Caption">Opening Complexity</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="AllowAutoSelect">true</property>
+      <property name="CanDrag">true</property>
+      <property name="Enabled">true</property>
+      <property name="StyleDisabledName"></property>
+      <property name="Name">Opening Complexity</property>
+      <property name="AllowGlyphSkinning">Default</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">4</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.Module">~Xtra#NULL</property>
+      <property name="Caption">Opening Repetitions</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="AllowAutoSelect">true</property>
+      <property name="CanDrag">true</property>
+      <property name="Enabled">true</property>
+      <property name="StyleDisabledName"></property>
+      <property name="Name">Opening Repetitions</property>
+      <property name="AllowGlyphSkinning">Default</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">5</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.Module">~Xtra#NULL</property>
+      <property name="Caption">Topic Knowledge</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="AllowAutoSelect">true</property>
+      <property name="CanDrag">true</property>
+      <property name="Enabled">true</property>
+      <property name="StyleDisabledName"></property>
+      <property name="Name">Topic Knowledge</property>
+      <property name="AllowGlyphSkinning">Default</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">6</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.Module">~Xtra#NULL</property>
+      <property name="Caption">Topic Complexity</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="AllowAutoSelect">true</property>
+      <property name="CanDrag">true</property>
+      <property name="Enabled">true</property>
+      <property name="StyleDisabledName"></property>
+      <property name="Name">Topic Complexity</property>
+      <property name="AllowGlyphSkinning">Default</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">4</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.Module">~Xtra#NULL</property>
+      <property name="Caption">Topic Repetitions</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="AllowAutoSelect">true</property>
+      <property name="CanDrag">true</property>
+      <property name="Enabled">true</property>
+      <property name="StyleDisabledName"></property>
+      <property name="Name">Topic Repetitions</property>
+      <property name="AllowGlyphSkinning">Default</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">7</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.Module">~Xtra#NULL</property>
+      <property name="Caption">Training History</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="AllowAutoSelect">true</property>
+      <property name="CanDrag">true</property>
+      <property name="Enabled">true</property>
+      <property name="StyleDisabledName"></property>
+      <property name="Name">Training History</property>
+      <property name="AllowGlyphSkinning">Default</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">2</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.Module">~Xtra#NULL</property>
+      <property name="Caption">Opening Training</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="AllowAutoSelect">true</property>
+      <property name="CanDrag">true</property>
+      <property name="Enabled">true</property>
+      <property name="StyleDisabledName"></property>
+      <property name="Name">Opening Training</property>
+      <property name="AllowGlyphSkinning">Default</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">3</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.Module">~Xtra#NULL</property>
+      <property name="Caption">Topic Training</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="AllowAutoSelect">true</property>
+      <property name="CanDrag">true</property>
+      <property name="Enabled">true</property>
+      <property name="StyleDisabledName"></property>
+      <property name="Name">Topic Training</property>
+      <property name="AllowGlyphSkinning">Default</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="LargeImageIndex">-1</property>
+      <property name="SmallImageIndex">8</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.Module">~Xtra#NULL</property>
+      <property name="Caption">Training Schedule</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="AllowAutoSelect">true</property>
+      <property name="CanDrag">true</property>
+      <property name="Enabled">true</property>
+      <property name="StyleDisabledName"></property>
+      <property name="Name">Training Schedule</property>
+      <property name="AllowGlyphSkinning">Default</property>
+    </property>
+  </property>
+  <property name="AllowGlyphSkinning">false</property>
+  <property name="NavigationPaneGroupClientHeight">200</property>
+  <property name="ShowGroupHint">true</property>
+  <property name="ShowLinkHint">true</property>
+  <property name="DragDropFlags">AllowDrag, AllowDrop</property>
+  <property name="ActiveGroupName">Training</property>
+  <property name="SelectLinkOnPress">true</property>
+  <property name="Groups" iskey="true" value="3">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="ItemLinks" iskey="true" value="0" />
+      <property name="Expanded">false</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="GroupCaptionUseImage">Default</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.ModuleCategory">~Xtra#NULL</property>
+      <property name="AllowGlyphSkinning">Default</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="LargeImageIndex">0</property>
+      <property name="Caption">Repertoire</property>
+      <property name="GroupClientHeight">-1</property>
+      <property name="DragDropFlags">Default</property>
+      <property name="GroupStyle">Default</property>
+      <property name="NavigationPaneVisible">true</property>
+      <property name="ControlContainerName"></property>
+      <property name="Name">Repertoire</property>
+      <property name="SelectedLinkIndex">-1</property>
+      <property name="TopVisibleLinkIndex">0</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="ItemLinks" iskey="true" value="2">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="VisibleCore">true</property>
+          <property name="ItemName">Opening Training</property>
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="VisibleCore">true</property>
+          <property name="ItemName">Topic Training</property>
+        </property>
+      </property>
+      <property name="Expanded">true</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="GroupCaptionUseImage">Default</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.ModuleCategory">~Xtra#NULL</property>
+      <property name="AllowGlyphSkinning">Default</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="LargeImageIndex">1</property>
+      <property name="Caption">Training</property>
+      <property name="GroupClientHeight">-1</property>
+      <property name="DragDropFlags">Default</property>
+      <property name="GroupStyle">SmallIconsList</property>
+      <property name="NavigationPaneVisible">true</property>
+      <property name="ControlContainerName"></property>
+      <property name="Name">Training</property>
+      <property name="SelectedLinkIndex">0</property>
+      <property name="TopVisibleLinkIndex">0</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Visible">true</property>
+      <property name="ItemLinks" iskey="true" value="8">
+        <property name="Item1" isnull="true" iskey="true">
+          <property name="VisibleCore">true</property>
+          <property name="ItemName">Opening Knowledge</property>
+        </property>
+        <property name="Item2" isnull="true" iskey="true">
+          <property name="VisibleCore">true</property>
+          <property name="ItemName">Opening Complexity</property>
+        </property>
+        <property name="Item3" isnull="true" iskey="true">
+          <property name="VisibleCore">true</property>
+          <property name="ItemName">Opening Repetitions</property>
+        </property>
+        <property name="Item4" isnull="true" iskey="true">
+          <property name="VisibleCore">true</property>
+          <property name="ItemName">Topic Knowledge</property>
+        </property>
+        <property name="Item5" isnull="true" iskey="true">
+          <property name="VisibleCore">true</property>
+          <property name="ItemName">Topic Complexity</property>
+        </property>
+        <property name="Item6" isnull="true" iskey="true">
+          <property name="VisibleCore">true</property>
+          <property name="ItemName">Topic Repetitions</property>
+        </property>
+        <property name="Item7" isnull="true" iskey="true">
+          <property name="VisibleCore">true</property>
+          <property name="ItemName">Training History</property>
+        </property>
+        <property name="Item8" isnull="true" iskey="true">
+          <property name="VisibleCore">true</property>
+          <property name="ItemName">Training Schedule</property>
+        </property>
+      </property>
+      <property name="Expanded">false</property>
+      <property name="SmallImageIndex">-1</property>
+      <property name="GroupCaptionUseImage">Default</property>
+      <property name="Tag" type="ChessPositionTrainer.ObjectModel.ModuleCategory">~Xtra#NULL</property>
+      <property name="AllowGlyphSkinning">Default</property>
+      <property name="AllowHtmlString">Default</property>
+      <property name="LargeImageIndex">2</property>
+      <property name="Caption">Statistics</property>
+      <property name="GroupClientHeight">-1</property>
+      <property name="DragDropFlags">Default</property>
+      <property name="GroupStyle">SmallIconsList</property>
+      <property name="NavigationPaneVisible">true</property>
+      <property name="ControlContainerName"></property>
+      <property name="Name">Statistics</property>
+      <property name="SelectedLinkIndex">-1</property>
+      <property name="TopVisibleLinkIndex">0</property>
+    </property>
+  </property>
+</XtraSerializer>

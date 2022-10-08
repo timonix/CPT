@@ -68,7 +68,7 @@
       <property name="UserRibbonStyle">Default</property>
       <property name="UserCaption"></property>
       <property name="UserWidth">0</property>
-      <property name="ClickCount">1</property>
+      <property name="ClickCount">2</property>
       <property name="ItemId">42</property>
       <property name="UserEditWidth">0</property>
       <property name="IsGalleryToolbarItemLink">false</property>

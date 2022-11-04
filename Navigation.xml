@@ -260,7 +260,7 @@
       <property name="NavigationPaneVisible">true</property>
       <property name="ControlContainerName"></property>
       <property name="Name">Statistics</property>
-      <property name="SelectedLinkIndex">1</property>
+      <property name="SelectedLinkIndex">7</property>
       <property name="TopVisibleLinkIndex">0</property>
     </property>
   </property>

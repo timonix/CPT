@@ -34,7 +34,7 @@
         <property name="FormatType">None</property>
       </property>
       <property name="SummaryFooterStrFormat">{0}</property>
-      <property name="MinWidth">87</property>
+      <property name="MinWidth">105</property>
       <property name="RowFooterSummaryStrFormat">{0}</property>
       <property name="RowFooterSummary">None</property>
       <property name="Width">217</property>
